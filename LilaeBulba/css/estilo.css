@@ -1,0 +1,76 @@
+h1 {
+	text-align: center;
+	font-family: raleway;
+	
+
+}
+#indexh1 {
+	font-family: 'Modak', cursive;
+	/*font-family: 'Yellowtail', cursive; */
+	font-size: 85px;
+	font-weight: normal;
+}
+p {
+	font-family: raleway;
+	text-align: left;
+	text-indent: 2em;
+}
+
+img {
+	margin-right: 10px;
+    border: 1px solid black;
+    width: 600px;
+    float: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+main{
+	width: 700px;
+	margin: 10px;
+	position: center;
+    margin: -1px auto 10px;
+    background-color: #fafafa;
+    border:1.5px solid #ddd;      
+}
+
+body {
+	background-image: url("../imagens/catback2.png");
+	background-attachment: fixed;
+}
+
+li {
+	display: inline-block;
+	margin: 10px; 
+	border: 1px solid black;
+	padding: 5px;
+}
+li:hover {
+	background-color: grey;
+	transition: 0.8s;
+}
+
+a {
+	text-decoration: none;
+	color: black;
+}
+
+#index {
+	font-family: raleway;
+	text-align: center;
+	text-indent: 2em;
+}
+
+footer {
+	width:400px; 
+    margin:10px; 
+    font-size:0.75em; 
+    background-color:white; 
+    color: black; 
+    margin: -1px auto 10px;
+}
+
+footer p {
+	text-align: center;
+}
